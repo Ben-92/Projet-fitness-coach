@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2fd5557-df59-4785-8a70-79310b7490fa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Svnf40l6uzB0U22cihM8b3KAVQ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainFitnessCoach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packagefitnesscoach.MainFitnessCoach" />
+      <module name="ProjetFitnessCoach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="packagefitnesscoach.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFitnessCoach" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2fd5557-df59-4785-8a70-79310b7490fa" name="Default Changelist" comment="" />
+      <created>1572453036565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572453036565</updated>
+      <workItem from="1572453040002" duration="1859000" />
+      <workItem from="1572512438027" duration="19070000" />
+      <workItem from="1572600103519" duration="4535000" />
+      <workItem from="1572622832076" duration="4772000" />
+      <workItem from="1572706365424" duration="5020000" />
+      <workItem from="1572767212599" duration="2672000" />
+      <workItem from="1572776773937" duration="8118000" />
+      <workItem from="1572863038733" duration="4181000" />
+      <workItem from="1573037468046" duration="19000" />
+      <workItem from="1573465426552" duration="812000" />
+      <workItem from="1573467804261" duration="3319000" />
+      <workItem from="1573478138516" duration="618000" />
+      <workItem from="1573553009049" duration="3161000" />
+      <workItem from="1573585893545" duration="599000" />
+      <workItem from="1573631870819" duration="2194000" />
+      <workItem from="1573673924082" duration="1263000" />
+      <workItem from="1573720573485" duration="604000" />
+      <workItem from="1573904193778" duration="644000" />
+      <workItem from="1574088084230" duration="322000" />
+      <workItem from="1574088600673" duration="599000" />
+      <workItem from="1574155442927" duration="2306000" />
+      <workItem from="1574340504422" duration="1370000" />
+      <workItem from="1574342696658" duration="599000" />
+      <workItem from="1574672289850" duration="599000" />
+      <workItem from="1574799614153" duration="732000" />
+      <workItem from="1575367676436" duration="599000" />
+      <workItem from="1575450962803" duration="599000" />
+      <workItem from="1589534202713" duration="931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
